@@ -1,0 +1,5 @@
+INFO Starting server
+WARNING Disk usage at 80%
+ERROR Failed to connect to database
+INFO Server started successfully
+ERROR Timeout on request
